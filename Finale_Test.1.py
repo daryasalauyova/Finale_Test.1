@@ -13,4 +13,3 @@ if new_array:
     print(new_array)  
 else:
     print([])  
-
